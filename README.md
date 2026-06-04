@@ -1,8 +1,8 @@
 # Hi there
 
-Certificates 
+##Certificates 
 Comptia A+ certified
 
-Projects 
+##Projects 
 Active Directory demo https://youtu.be/KSWGjCtDTRg
 Jira ticketing demo https://youtu.be/CGcKX5K1oqg
